@@ -1,0 +1,10 @@
+surname: Shevchenko
+name: Vitalii
+patronymic: Andriiovych
+age: 26
+number of domestic animals: 1
+desired future salary (USD):
+  - junior: 600
+  - middle: 1500
+  - senior: 3000
+
