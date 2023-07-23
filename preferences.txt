@@ -1,0 +1,6 @@
+favorite movie: Interstellar, The Proposal, Rocky
+favorite series: Friends
+favorite food: Mashed potatoes, Salad Olivie, Roasted Chicken
+favorite season: Spring, Summer
+side you would like to visit: Czech, Norway, USA
+

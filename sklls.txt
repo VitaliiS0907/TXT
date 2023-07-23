@@ -1,0 +1,17 @@
+Basic theory: Definition and understanding of what testing is, SDLC, STLC, bug reports, documentation, types, methods, areas of testing, etc.
+Client-server architecture: Basic concepts and features
+HTTP: Server request methods, Server response codes, "Structures of requests and responses
+JSON, XML: structure and features
+API: Postman (JS, API autotests)
+DevTools: Google Chrome, FireFox
+Mobile Testing: Feature - iOS, Android,
+                Tools - XCode, Android Studio, ADB, Proxy and VPN
+Packet analyzer or Sniffer: Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android
+Linux-Terminal: pwd, mkdir, ls -la, mv, cp, cd, cat/>/>>, grep/grep -r . >, find/find . -name, tail/tail -f, ssh, curl
+GitHub: git add ., git commit, git push, git pull, git branch, git checkout, git merge
+SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join
+Agile software development: Scrum, Kanban
+Test Design Techniques: Equivalence Classes, Boundary Values, Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice), States and Transitions
+Stress Testing: Jmeter
+Python: Learning the basics
+
