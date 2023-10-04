@@ -12,5 +12,5 @@ GitHub: git add ., git commit, git push, git pull, git branch, git checkout, git
 SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join
 Agile software development: Scrum, Kanban
 Test Design Techniques: Equivalence Classes, Boundary Values, Combinatorial Techniques (Pairwise, Orthogonal, Basic Choice, Every Choice), States and Transitions
-Stress Testing:
+Stress Testing:Jmeter
 Python: Learning the basics
